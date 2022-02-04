@@ -1,0 +1,113 @@
+body {
+  font-family: "Unna", serif;
+  margin: 40px 50px;
+}
+h1 {
+  font-size: 50px;
+  margin: 0px;
+  padding-left: 10px;
+}
+h2 {
+  font-size: 50px;
+  text-align: center;
+  font-family: "Didact Gothic", sans-serif;
+}
+.mission {
+  text-align: center;
+}
+.flexible-display {
+  display: flex;
+  padding: 0% 10%;
+  margin: 80px 0px;
+}
+.half-width {
+  width: 50%;
+  margin: 10px 40px;
+}
+.half-width img {
+  width: 50%;
+  padding-top: 0px;
+  padding-left: 30%;
+}
+.header {
+  border-left: 7px solid rgb(255, 72, 0);
+  border-image-slice: 1;
+}
+.orange {
+  color: orange;
+}
+.btn {
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 40px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.missions {
+  display: flex;
+  width: 80%;
+  padding: 0% 10%;
+}
+.mission {
+  background-color: rgb(171, 218, 226);
+}
+.vission {
+  background-color: rgb(219, 186, 192);
+}
+.goals {
+  background-color: rgb(223, 184, 166);
+}
+.mission-img {
+  width: 25%;
+}
+.mission-cls {
+  padding-top: 2%;
+  border-radius: 20px;
+  text-align: left;
+  padding-left: 2%;
+  margin: 0 20px;
+}
+.develop-title {
+  font-size: 50px;
+  margin-top: 30px;
+}
+.develop img {
+  width: 100%;
+  padding-left: 0%;
+}
+h3 {
+  font-size: 50px;
+  margin: 0px;
+  padding-left: 10px;
+}
+.dev-width1 {
+  width: 40%;
+  padding-right: 10px;
+}
+.dev-width2 {
+  width: 60%;
+  margin-left: 5%;
+}
+.limits {
+  margin-top: 100px;
+}
+footer {
+  background-color: black;
+  margin: 40px 50px;
+  height: 150px;
+}
+.text {
+  color: white;
+}
+.year {
+  color: orangered;
+}
+h4 {
+  color: white;
+  font-size: 50ox;
+  text-align: center;
+}
+.footer-heading {
+  text-align: center;
+}
